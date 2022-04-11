@@ -1,7 +1,6 @@
 CryptoGhouls <br/>
 ![alt text](https://miro.medium.com/max/1400/1*6PyBsw_sP7tP_ff_I-Ie6g.png)
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbabyghosts.com%2F&psig=AOvVaw2RlpXTpRxVt2n6t4aDdC-O&ust=1649803944395000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMij6e-MjfcCFQAAAAAdAAAAABAD)
 # Advanced Sample Hardhat Project
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
