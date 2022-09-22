@@ -11,6 +11,7 @@ contract DefaultErc20 is ERC20Burnable {
     constructor() ERC20("TokenName", "TokenSymbol") {
         contractAddress = address(this);
     }
+    // function to mint
 
     function mint(address destinationAddress, uint256 amount) public {
         _mint(destinationAddress, amount);
