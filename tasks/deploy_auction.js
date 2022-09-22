@@ -1,7 +1,7 @@
 const { BigNumber } = require('@ethersproject/bignumber');
 const fs = require('fs');
 const deployments = require('../data/deployments');
-
+// task to deploy auction
 task('deploy-auction').setAction(async function () {
   const [deployer] = await ethers.getSigners();
 
