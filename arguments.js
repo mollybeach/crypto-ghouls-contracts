@@ -1,5 +1,5 @@
 module.exports = [
     "Cyberpupper",
-    "CDOGE",
+    "CPUP",
     "ipfs:///"
 ]
